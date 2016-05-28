@@ -1,7 +1,7 @@
 return {
 	bot_api_key = '231759372:AAFzbNFiOQ63OzGAOi2gXZEO1syb0-zVEhQ',
 	admin = 24709501,
-	log_chat = -1001057801239,
+	log_chat = -1067414902,
 	channel = '@pic4all', --channel username with the '@'
 	languages = 'languages.lua',
 	plugins = {
