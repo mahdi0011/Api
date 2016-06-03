@@ -23,6 +23,9 @@ return {
 		'floodmanager.lua',
 		'mediasettings.lua',
 		'test.lua',
+		'who.lua',
+		'time.lua',
+		'weather.lua',
 		'admin.lua',
 	},
 	available_languages = {
